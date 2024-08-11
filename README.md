@@ -1,19 +1,20 @@
-# Diseño y Desarrollo Web
+# Web Design and Development
 
-## Introducción
-Este es un proyecto de práctica para mejorar mis habilidades en HTML y CSS. El objetivo es crear una página web sencilla en español.
+## Introduction
+This is a practice project to improve my skills in HTML and CSS. The goal is to create a simple webpage in Spanish.
 
-## Capturas de Pantalla
+## Screenshots
 
-## Características
+## Features
 
-## Tecnologías Utilizadas
+## Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## Instalación
+## Installation
 
-1. Clona este repositorio:
-``git clone https://github.com/FernandoMercado-Dev/Practice1_WebPage-ES.git``
-
-2. Navega a la carpeta del proyecto
-3. Abre el archivo index.html
+1. Clone this repository:
+```bash
+git clone https://github.com/FernandoMercado-Dev/Practice1_WebPage-ES.git
+```
+2. Navigate to the project folder
+3. Open the index.html file
