@@ -25,7 +25,7 @@ This is a practice project to improve my skills in HTML and CSS. The goal is to 
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/FernandoMercado-Dev/Practice1_WebPage-ES.git
+git clone https://github.com/FernandoMercado-Dev/Practice_WebPage-FrontEnd-ES.git
 ```
 2. Navigate to the project folder
 3. Open the index.html file
